@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cloudinary": "^2.2.0",
+    "react-select": "^5.8.0"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.11"
+  }
+}
