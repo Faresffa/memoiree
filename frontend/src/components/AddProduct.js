@@ -22,7 +22,7 @@ export default function AddProduct({
   const handleInputChange = (key, value) => {
     setProduct({ ...product, [key]: value });
   };
-  console.log("jhrg")
+
 
   const addProduct = () => {
     fetch("http://localhost:4000/api/product/add", {
