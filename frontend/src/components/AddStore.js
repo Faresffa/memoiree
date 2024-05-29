@@ -163,11 +163,11 @@ export default function AddStore(
                               }
                             >
                               <option selected="" value="Electronics">
-                                Electronics
+                                ...
                               </option>
-                              <option value="Groceries">Groceries</option>
-                              <option value="Wholesale">WholeSale</option>
-                              <option value="SuperMart">SuperMart</option>
+                              <option value="Electronics">Electronics</option>
+                              <option value="Games">Games</option>
+                              <option value="accessories">Accessories</option>
                               <option value="Phones">Phones</option>
                             </select>
                           </div>

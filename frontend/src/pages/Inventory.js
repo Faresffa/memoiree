@@ -108,7 +108,7 @@ function Inventory() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                    $2000
+                    2000 DA
                   </span>
                   <span className="font-thin text-gray-400 text-xs">
                     Revenue
@@ -131,7 +131,7 @@ function Inventory() {
                 </div>
                 <div className="flex flex-col">
                   <span className="font-semibold text-gray-600 text-base">
-                    $1500
+                    1500 DA
                   </span>
                   <span className="font-thin text-gray-400 text-xs">Cost</span>
                 </div>
@@ -250,7 +250,7 @@ function Inventory() {
                       {element.description}
                     </td>
                     <td className="whitespace-nowrap px-4 py-2 text-gray-700">
-                      {element.price}
+                      {element.price}DA
                     </td>
                     <td className="whitespace-nowrap px-4 py-2 text-gray-700">
                       {element.stock > 0 ? "In Stock" : "Not in Stock"}
